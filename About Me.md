@@ -3,7 +3,7 @@
 > - 🧠 Languages I currently know are - `CSS`, `PHP`, `HTML`, `JavaScript`, `Java`, `Python`, and a bit of `GO`.
 > - 📫 I mainly use Discord for communication. My Discord is ``putrid#0001``
 
-## Languages I would like to learn and/or are currently learning
+## Languages I would like to learn and/or currently learning
 > - `LUA`
 > - `LUAU`
 > - `Ruby`
