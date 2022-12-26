@@ -1,4 +1,4 @@
-> - 👋 Hi, I’m _**@Website-Tutorials**_
+> - 👋 Hi, I’m __**@Website-Tutorials**__
 > - 👀 I’m interested in helping people learn and create amazing simple things for their websites!
 > - 🧠 Languages I currently know are - `CSS`, `PHP`, `HTML`, `JavaScript`, `Java`, `Python`, and a bit of `GO`.
 > - 📫 I mainly use Discord for communication. My Discord is ``putrid#0001``
